@@ -1,7 +1,3 @@
-<p float="center">
-    <img src="res/RetroMan_AI_logo.png" alt="RetroMan logo" width="300"/>
-</p></br>
-
 # RetroMan
 This project is still under contruction, any help is appreciated, see below.
 
