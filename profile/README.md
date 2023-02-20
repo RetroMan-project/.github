@@ -1,3 +1,7 @@
+<p float="center">
+    <img src="https://avatars.githubusercontent.com/u/125873077?s=200&v=4" alt="RetroMan logo" width="300"/>
+</p></br>
+
 # RetroMan
 This project is still under contruction, any help is appreciated, see below.
 
