@@ -10,6 +10,9 @@ This super hero software aims to be the only solution when comes to manage your 
 
 **Note:** the main branch is actually a develop branch as the software is still unmatured enough to be called even a beta.
 
+## How can I download it?
+As soon as we got a public usable release it will be linked here.
+
 ## Found bugs or want to help?
 Start [here](https://github.com/RetroMan-project/core/issues)!
 
