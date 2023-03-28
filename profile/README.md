@@ -8,10 +8,10 @@ This project is still under contruction, any help is appreciated, see below.
 RetroMan is a ROMs manager project that helps you to manage your roms library and sync it with your devices.
 This super hero software aims to be the only solution when comes to manage your roms.
 
+**Note:** the main branch is actually a develop branch as the software is still unmatured enough to be called even a beta.
+
 ## Found bugs or want to help?
 Start [here](https://github.com/RetroMan-project/core/issues)!
-
-**Note:** the main branch is actually a develop branch as the software is still unmatured enough to be called even a beta.
 
 ## Planned features
 - Multi device support: aims to support all the devices on the market, either they are devices or softwares like Miyoo devices, Anbernic Devices, RetroDECK, Batocera, RetroPie (custom device managements as yml templates with their own rules)
