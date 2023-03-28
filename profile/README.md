@@ -6,7 +6,7 @@
 This project is still under contruction, any help is appreciated, see below.
 
 RetroMan is a ROMs manager project that helps you to manage your roms library and sync it with your devices.
-This super hero software aims to be the only solution when comes to manage your roms.
+This super hero software aims to be the only solution when comes to manage your roms as it can work as a standalone application and/or a server/client application.
 
 **Note:** the main branch is actually a develop branch as the software is still unmatured enough to be called even a beta.
 
