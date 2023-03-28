@@ -1,5 +1,5 @@
 <p float="center">
-    <img src="res/RetroMan_AI_logo.png" alt="RetroMan logo" width="300"/>
+    <img src="https://avatars.githubusercontent.com/u/125873077?s=400&u=0de5ed647da27f1343d3dd83763165f5e920cc23&v=4" alt="RetroMan logo" width="300"/>
 </p></br>
 
 # RetroMan
