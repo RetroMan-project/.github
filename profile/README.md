@@ -14,7 +14,8 @@ This super hero software aims to be the only solution when comes to manage your 
 As soon as we got a public usable release it will be linked here.
 
 ## Found bugs or want to help?
-Start [here](https://github.com/RetroMan-project/core/issues)!
+You can check the open bug and issues [here](https://github.com/RetroMan-project/core/issues), and submit new.
+Moreover you can have a roadmap of the next version in case of curiosity or if wishing to help [here](https://github.com/RetroMan-project/core/milestones).
 
 ## Planned features
 - Multi device support: aims to support all the devices on the market, either they are devices or softwares like Miyoo devices, Anbernic Devices, RetroDECK, Batocera, RetroPie (custom device managements as yml templates with their own rules)
