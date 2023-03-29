@@ -42,7 +42,7 @@ Check the planned features under the [enhancements label](https://github.com/Ret
 
 ## ROMtation:
 Hey, you mentioned ROMtation as a feature, what is it?</br>
-It's ROM rortation system: when you got a limited memory on your device the ROMtation can be enabled, if enabled it removes the oldest/unused ROMs to make space to the new ones.
+It's a ROM rortation system: when you got a limited memory on your device the ROMtation can be enabled, if enabled it removes the oldest/unused ROMs to make space to the new ones.
 
 ## How it will work?
 In your main library you can choose which ROMs to sync in which devices, each device template can tell you if that system is supported or available in the selected device (supported = playable, available = avaliable but maybe not fully playable).
