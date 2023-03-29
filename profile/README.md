@@ -41,7 +41,7 @@ And more!
 Check the planned features under the [enhancements label](https://github.com/RetroMan-project/core/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement) in our issues page.
 
 ## ROMtation:
-Hey, you mentioned ROMtation as a feature, what is it?
+Hey, you mentioned ROMtation as a feature, what is it?</br>
 It's ROM rortation system: when you got a limited memory on your device the ROMtation can be enabled, if enabled it removes the oldest/unused ROMs to make space to the new ones.
 
 ## How it will work?
